@@ -49,7 +49,3 @@ for i in grades:
 			quit()
 currentGPA = currentGPA / int(numberOfCourses)
 print("Your GPA will be " + str(currentGPA))
-
-
-
-
